@@ -50,6 +50,8 @@ There are a few files that are included in the build but are not used due to bug
    1. Change Friction:
       X to add friction
       Z to sub friction
+      
+Simulation is run from the run_sim.py file
 
 I would like to return to this and revisit the bugs in the code. Until then, maybe you can take 
 this code and use it in your own projects.
